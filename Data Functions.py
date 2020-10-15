@@ -13,6 +13,3 @@ else:
   returnValue = "Some other value"
 
 dbutils.notebook.exit(returnValue)
-
-# COMMAND ----------
-
